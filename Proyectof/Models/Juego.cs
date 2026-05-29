@@ -1,5 +1,5 @@
-using PPTLS.Strategies;
-namespace PPTLS.Models;
+using Proyectof.Strategies;
+namespace Proyectof.Models;
 public class Juego
 {
 public Jugador JugadorHumano { get; private set; }

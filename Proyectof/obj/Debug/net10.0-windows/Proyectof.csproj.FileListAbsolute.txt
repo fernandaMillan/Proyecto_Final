@@ -1,0 +1,2 @@
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\ProyectoF\Proyecto_Final\Proyectof\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\laris\OneDrive\Escritorio\Progra Orientada a Objetos\ProyectoF\Proyecto_Final\Proyectof\obj\Debug\net10.0-windows\Proyectof_MarkupCompile.cache

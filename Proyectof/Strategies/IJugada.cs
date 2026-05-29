@@ -1,4 +1,4 @@
-namespace PPTLS.Strategies;
+namespace Proyectof.Strategies;
 public interface IJugada
 {
 string Nombre { get; }
