@@ -17,9 +17,9 @@ public class Juego{
             new Lagarto(),
             new Spock()
         };
-        JugadorHumano = new Jugador("Jugador") { JugadaActual = jugadas[0] };
-        CPU = new Jugador("CPU") { JugadaActual = jugadas[0] };
-        random = new Random();
+       
+       random = new Random();
+
     }
     public string Jugar(IJugada jugadaHumana){
         JugadorHumano.ElegirJugada(jugadaHumana);
