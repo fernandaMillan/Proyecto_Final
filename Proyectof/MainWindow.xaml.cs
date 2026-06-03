@@ -29,11 +29,6 @@ public partial class MainWindow : Window
         juego = new Juego();
     }
 
-private void InitializeComponent()
-    {
-        throw new NotImplementedException();
-    }
-
     //Piedra
     private void BtnPiedra_Click(object sender, RoutedEventArgs e)
     {

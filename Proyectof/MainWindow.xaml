@@ -28,7 +28,7 @@ Margin="0,0,0,20"/>
  <Button Width="500" Height= "100" Background="#0C82F3" Foreground= "white" Click="BtnPiedra_Click">
     <StackPanel>
     <TextBlock TextAlignment="Center">Piedra </TextBlock>
-    <image Source="piedra.jpg" Width="50" Height="50"/>
+    <Image Source="piedra.jpg" Width="50" Height="50"/>
     </StackPanel>
 
     <!--SONIDO-->
@@ -48,7 +48,7 @@ Margin="0,0,0,20"/>
 <Button Width="500" Height= "100" Background="#F94E6A" Foreground= "white" Click="BtnPiedra_Click">
     <StackPanel>
     <TextBlock TextAlignment="Center">Papel </TextBlock>
-    <image Source="papel.jpg" Width="50" Height="50"/>
+    <Image Source="papel.jpg" Width="50" Height="50"/>
     </StackPanel>
 
     <!--SONIDO-->
@@ -68,7 +68,7 @@ Margin="0,0,0,20"/>
 <Button Width="500" Height= "100" Background="#85FF03" Foreground= "white" Click="BtnPiedra_Click">
     <StackPanel>
     <TextBlock TextAlignment="Center">Tijera </TextBlock>
-    <image Source="tijera.jpg" Width="50" Height="50"/>
+    <Image Source="tijeras.jpg" Width="50" Height="50"/>
     </StackPanel>
 
     <!--SONIDO-->
@@ -88,7 +88,7 @@ Margin="0,0,0,20"/>
 <Button Width="500" Height= "100" Background="#FF9F1A" Foreground= "white" Click="BtnPiedra_Click">
     <StackPanel>
     <TextBlock TextAlignment="Center">Lagarto </TextBlock>
-    <image Source="lagarto.jpg" Width="50" Height="50"/>
+    <Image Source="lagarto.jpg" Width="50" Height="50"/>
     </StackPanel>
 
     <!--SONIDO-->
@@ -110,7 +110,7 @@ Margin="0,0,0,20"/>
 <Button Width="500" Height= "100" Background="#9022FF" Foreground= "white" Click="BtnPiedra_Click">
     <StackPanel>
     <TextBlock TextAlignment="Center">Spock </TextBlock>
-    <image Source="spock.webp" Width="50" Height="50"/>
+    <Image Source="spock.webp" Width="50" Height="50"/>
     </StackPanel>
 
     <!--SONIDO-->
